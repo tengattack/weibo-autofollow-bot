@@ -1,0 +1,17 @@
+{
+  "name": "weibo-autofollow-bot",
+  "version": "0.1",
+  "private": true,
+  "author": "tengattack",
+  "homepage": "http://tengattack.com/",
+  "license": "MIT",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "underscore": "*",
+    "eventproxy": "*",
+    "mongoose": "*",
+    "request": "*"
+  }
+}
