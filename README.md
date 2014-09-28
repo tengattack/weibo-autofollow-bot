@@ -10,4 +10,4 @@
 * 需要Weibo API接口 ( http://open.weibo.com/ )
 * 需要网页版微博Cookie
 * 配置文件 config/weibo.js ( 参考 config/weibo-sample.js )
-
+* 数据库配置文件 config/db.js
